@@ -27,4 +27,5 @@ Una aplicación web de Blackjack desarrollada con Vue.js 3 y la API Options. Jue
 
 ```bash
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+npm install
 npm run serve
